@@ -354,12 +354,11 @@ hr {
                    url('../im/anja.jpg'), // 256 - Dave
                    url('../im/livia.jpg'), // 512 - Mark Bell
                    url('../im/mirjam.jpg'), // 1024 - Jeddy
-                   url('../im/alan.jpg'), // 2048
-		   url('../im/harry.jpg'), // 4056
+                   url('../im/alan.jpg'); // 2048
+		  /* url('../im/harry.jpg'), // 4056
 		   url('../im/nicola.jpg'), // 8112
 		   url('../im/mike.jpg'), // 16224
-		   url('../im/jon.jpg'); // 32448
-
+		   url('../im/jon.jpg'); // 32448 */
   // Build tile colors
   @while $exponent <= $limit {
     $power: pow($base, $exponent);
