@@ -344,32 +344,17 @@ hr {
                    #89a9d7 true, // 1024
                    #c76d5c true; // 2048
 
-   $tile-stori:  url('../im/ben.jpg'), // 2 - Ben
-                   url('../im/rhian.jpg'), // 4 - Rhian
-                   url('../im/rob.jpg'), // 8 - Rob
-                   url('../im/hugo.jpg'), // 16 - Hugo
-                   url('../im/emma.jpg'), // 32 - Emma
-                   url('../im/tom.jpg'), // 64 - Tom
-                   url('../im/judd.jpg'), // 128 - Judd
-                   url('../im/dave.jpg'), // 256 - Dave
-                   url('../im/mark.jpg'), // 512 - Mark Bell
-                   url('../im/jeddy.jpg'), // 1024 - Jeddy
-                   url('../im/jon.jpg'); // 2048 - J T
-
-
-   
-   
-    /*url('../im/holly.jpg'), // 2 - Holly
-                   url('../im/tom.jpg'), // 4 - Tom
-                   url('../im/jess.jpg'), // 8 - Jess
-                   url('../im/szymon.jpg'), // 16 - Szymon
-                   url('../im/jordan.jpg'), // 32 - Jordan
-                   url('../im/srshti.jpg'), // 64 - Srshti
-                   url('../im/matt.jpg'), // 128 - Matt
-                   url('../im/anja.jpg'), // 256 - Anjob
-                   url('../im/livia.jpg'), // 512 - Livia
-                   url('../im/mirjam.jpg'), // 1024 - Mirjam
-                   url('../im/alan.jpg'); // 2048 - Alan */ 
+   $tile-stori:  url('/im/holly.jpg'), // 2 - Holly
+                   url('/im/tom.jpg'), // 4 - Tom
+                   url('/im/jess.jpg'), // 8 - Jess
+                   url('/im/szymon.jpg'), // 16 - Szymon
+                   url('/im/jordan.jpg'), // 32 - Jordan
+                   url('/im/srshti.jpg'), // 64 - Srshti
+                   url('/im/matt.jpg'), // 128 - Matt
+                   url('/im/anja.jpg'), // 256 - Anjob
+                   url('/im/livia.jpg'), // 512 - Livia
+                   url('/im/mirjam.jpg'), // 1024 - Mirjam
+                   url('/im/alan.jpg'); // 2048 - Alan  
 
   // Build tile colors
   @while $exponent <= $limit {
