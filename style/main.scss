@@ -344,17 +344,21 @@ hr {
                    #89a9d7 true, // 1024
                    #c76d5c true; // 2048
 
-   $tile-stori:  url('../im/ben.jpg'), // 2 - Ben
-                   url('../im/rhian.jpg'), // 4 - Rhian
-                   url('../im/rob.jpg'), // 8 - Rob
-                   url('../im/hugo.jpg'), // 16 - Hugo
-                   url('../im/emma.jpg'), // 32 - Emma
-                   url('../im/tom.jpg'), // 64 - Tom
-                   url('../im/judd.jpg'), // 128 - Judd
-                   url('../im/dave.jpg'), // 256 - Dave
-                   url('../im/mark.jpg'), // 512 - Mark Bell
-                   url('../im/jeddy.jpg'), // 1024 - Jeddy
-                   url('../im/jon.jpg'); // 2048 - J T
+   $tile-stori:  url('../im/holly.jpg'), // 2 - Ben
+                   url('../im/tom.jpg'), // 4 - Rhian
+                   url('../im/jess.jpg'), // 8 - Rob
+                   url('../im/szymon.jpg'), // 16 - Hugo
+                   url('../im/jordan.jpg'), // 32 - Emma
+                   url('../im/srshti.jpg'), // 64 - Tom
+                   url('../im/matt.jpg'), // 128 - Judd
+                   url('../im/anja.jpg'), // 256 - Dave
+                   url('../im/livia.jpg'), // 512 - Mark Bell
+                   url('../im/mirjam.jpg'), // 1024 - Jeddy
+                   url('../im/alan.jpg'), // 2048
+		   url('../im/harry.jpg'), // 4056
+		   url('../im/nicola.jpg'), // 8112
+		   url('../im/mike.jpg'), // 16224
+		   url('../im/jon.jpg'); // 32448
 
   // Build tile colors
   @while $exponent <= $limit {
