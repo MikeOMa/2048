@@ -393,7 +393,7 @@ hr {
     font-size: 0px; }
   .tile.tile-2048 .tile-inner {
     background: #c76d5c;
-    background-image: url("../im/livia.png");
+    background-image: url("../im/srshti.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -408,6 +408,14 @@ hr {
   .tile.tile-8192 .tile-inner {
     background: #c76d5c;
     background-image: url("../im/mike.png");
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0px; }
+
+  .tile.tile-16384 .tile-inner {
+    background: #c76d5c;
+    background-image: url("../im/harry.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
