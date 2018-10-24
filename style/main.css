@@ -317,7 +317,7 @@ hr {
     font-size: 55px; }
   .tile.tile-2 .tile-inner {
     background: #eee4da;
-    background-image: url("../im/ben.png");
+    background-image: url("../im/jordan.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -325,7 +325,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
     background: #ede0c8;
-    background-image: url("../im/rhian.png");
+    background-image: url("../im/szymon.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -333,7 +333,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
     background: #bb9bbf;
-    background-image: url("../im/rob.png");
+    background-image: url("../im/holly.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -341,7 +341,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-16 .tile-inner {
     background: #f8a389;
-    background-image: url("../im/emma.png");
+    background-image: url("../im/alan.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -349,7 +349,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-32 .tile-inner {
     background: #d8b74d;
-    background-image: url("../im/hugo.png");
+    background-image: url("../im/tom.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -357,7 +357,7 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
   .tile.tile-64 .tile-inner {
     background: #f0a751;
-    background-image: url("../im/tom.png");
+    background-image: url("../im/matt.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
@@ -365,35 +365,49 @@ hr {
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524); }
   .tile.tile-128 .tile-inner {
     background: #7e8c87;
-    background-image: url("../im/judd.png");
+    background-image: url("../im/nicola.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-256 .tile-inner {
     background: #fbeb76;
-    background-image: url("../im/dave.png");
+    background-image: url("../im/jess.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-512 .tile-inner {
     background: #4da66d;
-    background-image: url("../im/mark.png");
+    background-image: url("../im/mirjam.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-1024 .tile-inner {
     background: #89a9d7;
-    background-image: url("../im/jeddy.png");
+    background-image: url("../im/matt.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
     font-size: 0px; }
   .tile.tile-2048 .tile-inner {
     background: #c76d5c;
-    background-image: url("../im/jon.png");
+    background-image: url("../im/livia.png");
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0px; }
+  .tile.tile-4096 .tile-inner {
+    background: #c76d5c;
+    background-image: url("../im/mirjam.png");
+    background-size: 80% 80%;
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 0px; }
+  .tile.tile-8192 .tile-inner {
+    background: #c76d5c;
+    background-image: url("../im/mike.png");
     background-size: 80% 80%;
     background-repeat: no-repeat;
     background-position: center;
