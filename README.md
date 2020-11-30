@@ -1,1 +1,1 @@
-Editted for for fun. [Play it here!](http://trianglegirl.github.io/2048/)
+Editted for for fun. [Play it here!](http://mikeoma.github.io/2048/)
